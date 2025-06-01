@@ -1,1 +1,3 @@
-# flakes
+# Flakes
+
+Nix flakes.
